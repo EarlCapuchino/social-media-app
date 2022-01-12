@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/EarlCapuchino/social-media-app#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "dotenv": "^11.0.0",
     "express": "^4.17.2",
     "helmet": "^5.0.1",
